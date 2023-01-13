@@ -1,4 +1,4 @@
-import { HTMLHead } from '../shared/HTMLHead'
+import { HTMLHead } from '../src/shared/HTMLHead'
 import { _Challenge01 } from "../src/pages/challenge01/_Challenge01"
 
 const Challenge01 = () => {
